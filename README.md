@@ -21,14 +21,14 @@
 ## Git
 
 ## Github
-[Basic Writting and Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\
+[Basic Writting and Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Valgrind
 
 ## LLDB
 
 ## C
-[Variadic Functions](https://www.youtube.com/watch?v=S-ak715zIIE)\
+[Variadic Functions](https://www.youtube.com/watch?v=S-ak715zIIE)
 
 ## Algorithms
 [A list of algorithms](https://www.wikiwand.com/en/List_of_algorithms#/Combinatorial_algorithms)\
