@@ -16,7 +16,8 @@
 [How to use Vim Tutor](https://superuser.com/questions/246487/how-to-use-vimtutor)\
 [Man Page - Vim Tutor](https://web.archive.org/web/20100107121743/http://linuxcommand.gds.tuwien.ac.at/man_pages/vimtutor1.html)\
 [Best Vim Tips](https://vim.fandom.com/wiki/Best_Vim_Tips)\
-[Vim Cheatsheet](https://vim.rtorr.com/)
+[Vim Cheatsheet](https://vim.rtorr.com/)\
+[Vim Plugin](https://vimawesome.com/)
 
 ## Git
 
@@ -59,6 +60,15 @@
 ## Opiniated Libft
 [Memset vs Bzero](https://fdiv.net/2009/01/14/memset-vs-bzero-ultimate-showdown)\
 [String Handlings ideas](https://en.wikipedia.org/wiki/C_string_handling)
+ 
+## Make your life easier
+[Calculator Soup](https://www.calculatorsoup.com/)\
+[Timer](https://timer.singuerinc.com/)\
+[Github Profile Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)\
+[Finding your Productivity Type](https://todoist.com/productivity-methods)\
+[Username Generator](https://www.spinxo.com/)\
+[Online Compiler](https://onecompiler.com/)
+
 
 ## Forum Questions
 [Why unsigned int 0xFFFFFFFF is equal to int -1?](https://stackoverflow.com/questions/1863153/why-unsigned-int-0xffffffff-is-equal-to-int-1)\
