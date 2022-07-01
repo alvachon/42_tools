@@ -22,11 +22,15 @@
 ## Git
 
 ## Github
-[Basic Writting and Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Basic Writting and Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\
+[42 Badge](https://github.com/JaeSeoKim/badge42)
 
 ## Valgrind
+[Manual](https://valgrind.org/docs/manual/quick-start.html)\
+[Homebrew for 42 sessions](https://github.com/kube/42homebrew)
 
 ## LLDB
+[Tutorial](https://lldb.llvm.org/use/tutorial.html)
 
 ## C
 [Variadic Functions](https://www.youtube.com/watch?v=S-ak715zIIE)\
@@ -55,7 +59,9 @@
 [Agavrel Theory about the school](https://github.com/agavrel/42_CheatSheet)\
 [Piscine Exam Pratice Idea](https://github.com/alanbarrett2/42-Final-Exam)\
 [Another Piscine Exam Practice Idea](https://github.com/barimehdi77/42-piscine-exam)\
-[Old 42 Subjects](https://github.com/Binary-Hackers/42_Subjects)
+[Old 42 Subjects](https://github.com/Binary-Hackers/42_Subjects)\
+[Clean 42 Session](https://github.com/ombhd/Cleaner_42)\
+[A very Nice List](https://github.com/leeoocca/awesome-42)
 
 ## Opiniated Libft
 [Memset vs Bzero](https://fdiv.net/2009/01/14/memset-vs-bzero-ultimate-showdown)\
@@ -67,11 +73,22 @@
 [Github Profile Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)\
 [Finding your Productivity Type](https://todoist.com/productivity-methods)\
 [Username Generator](https://www.spinxo.com/)\
-[Online Compiler](https://onecompiler.com/)
+[Online Compiler](https://onecompiler.com/)\
+[Keep Extension at 42](https://github.com/FreekBes/keep_extensions)
 
+### Tester
+[Tester List](https://github.com/Kwevan/42-Tests)\
+[Maloc Failer](https://github.com/hilmi-yilmaz/malloc_failer)\
+[42 File Checker](https://github.com/jgigault/42FileChecker)
 
 ## Forum Questions
 [Why unsigned int 0xFFFFFFFF is equal to int -1?](https://stackoverflow.com/questions/1863153/why-unsigned-int-0xffffffff-is-equal-to-int-1)\
 [What does * in front of function name mean in C?](https://stackoverflow.com/questions/57341825/what-does-in-front-of-function-name-mean-in-c)\
 [Allouer dynamiquement un tableau d'int](https://openclassrooms.com/forum/sujet/allouer-dynamiquement-un-tableau-dint)
+
+## Fun Stuff
+[Extension Chrome - Intra Amélioré](https://chrome.google.com/webstore/detail/improved-intra-42/hmflgigeigiejaogcgamkecmlibcpdgo)\
+[Extension Chrome - Better Black Hole](https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf)\
+[Extension Chrome - Monthly Log Time](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep)\
+[Github Student Pack Validator](https://github-portal.42.fr/)
 
