@@ -28,6 +28,7 @@
 ## Valgrind
 [Manual](https://valgrind.org/docs/manual/quick-start.html)\
 [Homebrew for 42 sessions](https://github.com/kube/42homebrew)
+[Installing Valgrind on 42 MAC](https://github.com/LouisBrunner/valgrind-macos)
 
 ## LLDB
 [Tutorial](https://lldb.llvm.org/use/tutorial.html)
