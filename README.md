@@ -26,6 +26,7 @@
 [42 Badge](https://github.com/JaeSeoKim/badge42)
 
 ## Valgrind
+[Brew](https://github.com/kube/42homebrew)\
 [Manual](https://valgrind.org/docs/manual/quick-start.html)\
 [Installing Valgrind on 42 MAC](https://github.com/LouisBrunner/valgrind-macos)
 
